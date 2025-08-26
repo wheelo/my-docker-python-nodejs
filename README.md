@@ -9,3 +9,5 @@ current version includes:
 - npm: 10.x
 - Python: latest
 - pip: latest
+- pipenv: latest
+- uv: latest
